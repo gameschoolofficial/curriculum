@@ -1,11 +1,8 @@
-# on Boarding Process for new students
-
-
-Game-School GitHub submission Process and Standards
+# Game-School GitHub submission Process and Standards
 
 You are required to have your homework done by the following class time or otherwise stated by the teacher. Your homework, projects and journal will be submitted to your gitHub repository.
 
-Source Tree Submissions:
+##Source Tree Submissions:
 
 Name your exercises to match the class exercise
 Always use the README to leave notes, bugs and problems within your homework.
@@ -20,10 +17,33 @@ Game projects
 Name this directory:  Game-School Game Project
 Create a README file here that describes your game concept, your mechanic and your outstanding list of tasks, bugs and notes for your game.
 
-Special Assignments
+##Special Assignments
 Sometimes, we will ask you to do special programming, art or game design exercises for the classroom.  Please name the folder as “Special Exercises”
 
-Journaling, Blogging and writing
+##Journaling, Blogging and writing analysis
 It is both important and necessary for you to journal your experience through game design and development, so we ask every student to start journaling what they learn, and how they actually developed their game.
 
 If you feel comfortable with sharing some of your blogs, you can use any of the blog systems out there, but we recommend Tumblr since we can post pictures, and that will be very important in showing how you developed certain game functions and ideas.
+
+You will also be asked to review games for both their strength and weaknesses.
+
+##Game Analysis
+- Game Genre
+- Game Story
+- Overall game review based on the following:
+  - Story
+  - mechanic
+  - Polish
+  - New features you like
+  
+- What did you like about the game?
+- What did you not like about the game?
+  - Explain what didn't work
+-
+
+
+
+
+Editing README files in GitHub
+go to the following links to learn how to use markup languages for your README files.
+https://help.github.com/articles/markdown-basics/
