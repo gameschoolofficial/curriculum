@@ -86,7 +86,9 @@ semi colons ; are always used to finish a statement.
 
 ##Functions
 
+Global vs. Local declaration of variables.
 
+Variables that are declared within a function will only be usable in the said function, while variables declared outside of a function will be useable within the script.
 
 ##Loops
 ###For Loops
