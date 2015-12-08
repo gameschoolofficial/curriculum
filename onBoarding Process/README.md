@@ -35,7 +35,7 @@ You will also be asked to review games for both their strength and weaknesses.
   - mechanic
   - Polish
   - New features you like
-  
+  ''
 - What did you like about the game?
 - What did you not like about the game?
   - Explain what didn't work
